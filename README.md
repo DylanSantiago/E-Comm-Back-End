@@ -20,4 +20,4 @@ After installation, you must access your MYSQL shell and create the databse and 
 (Developing)
 
 ## Video Link
-(Developing)
+[Video Tutorial](https://drive.google.com/file/d/10DSahiex9KxbFM0C2o8EkBGhXkRnALZx/view)
